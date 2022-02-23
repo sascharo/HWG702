@@ -1,2 +1,5 @@
+jupyter
+moviepy==1.0.1
 numpy==1.19.1
+pillow
 watermark==2.3.0
