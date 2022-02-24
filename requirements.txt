@@ -1,5 +1,10 @@
-jupyter
+os
+math
+random
+jupyter==1.0.0
 moviepy==1.0.1
 numpy==1.19.1
 pillow
 watermark==2.3.0
+IPython==7.18.1
+numba==0.55.1
