@@ -1,4 +1,3 @@
-random
 jupyter==1.0.0
 moviepy==1.0.1
 numpy==1.19.1
